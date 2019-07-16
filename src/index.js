@@ -21,8 +21,8 @@ const PRODUCTS = [
 
 
 
-//ReactDOM.render(<FilterableProductTable products={PRODUCTS} />, document.getElementById('root'));
-ReactDOM.render(<Main/>, document.getElementById('root'));
+ReactDOM.render(<FilterableProductTable products={PRODUCTS} />, document.getElementById('root'));
+//ReactDOM.render(<Main/>, document.getElementById('root'));
 
 
 
